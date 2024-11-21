@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### About me
+
+<!-- - ✨ Blog on Medium: [abc.medium.com](https://abc.medium.com/)   
+<!-- - 🤖 Website: [abc.com](http://abc.com/)   --> 
+- 💼 [LinkedIn](https://www.linkedin.com/in/vasil-abdul-razak-152788ab/)
+- 🐦 [Twitter](https://x.com/vasil_1729)
+- 📫 The easiest way to reach me: vasilabdulrazak9@gmail.com
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=vasil1729&theme=dark)](https://git.io/streak-stats)
